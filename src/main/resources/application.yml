@@ -1,0 +1,10 @@
+logging:
+  level:
+    org:
+      hibernate:
+        resource:
+          jdbc:
+            internal: DEBUG
+    com:
+      zaxxer:
+        hikari: DEBUG
